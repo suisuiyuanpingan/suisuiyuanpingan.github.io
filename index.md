@@ -81,9 +81,3 @@ title: 课程设计完整博客
 [https://github.com/LiXinGDBW/weather_app](https://github.com/LiXinGDBW/weather_app)
 
 ---
-
-> 请根据实际情况完善内容和补充图片，效果如下图所示：
-
-- 左侧为导航，右侧为内容
-- 每个板块分明，便于查阅
-- 可继续添加 _posts 下的文章，丰富博客内容
