@@ -26,18 +26,19 @@ title: 课程设计完整博客
 - 亮点3
 ...
 
-## 系统演示操作视频/主要功能截图
-
-### 系统演示视频
-[点击观看系统演示视频](https://your-video-link.com)
+## 主要功能截图
 
 ### 主要功能截图
 1. 登录界面  
    ![登录界面](images/login.png)
-2. 主页面  
-   ![主页面](images/main.png)
-3. 其它功能  
-   ![功能截图](images/feature.png)
+2. 注册界面
+   ![注册界面](images/register.png)
+3. 修改密码界面
+   ![修改密码界面](images/changepassword.png)
+4. 主页面  
+   ![主页面](images/app.png)
+5. 其它功能  
+   ![功能截图](images/setting.png)
 
 ## 团队成员负责模块
 
