@@ -79,6 +79,11 @@ title: 课程设计完整博客
 |张博文|user3|界面设置模块|实现窗口大小调整、背景图片更改功能。|
 
 ## 项目Git地址
-[https://github.com/LiXinGDBW/weather_app](https://github.com/LiXinGDBW/weather_app)
+[https://github.com/LiXinGDBW/WeatherApp](https://github.com/LiXinGDBW/WeatherApp)
+
+## 成员github地址
+- 刘乐飞：[https://github.com/LiXinGDBW](https://github.com/LiXinGDBW)
+- 魏祥涵：[https://github.com/suisuiyuanpingan](https://github.com/suisuiyuanpingan)
+- 张博文：[https://github.com/LiXinGDBW](https://github.com/LiXinGDBW)
 
 ---
