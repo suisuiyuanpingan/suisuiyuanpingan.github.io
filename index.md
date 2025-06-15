@@ -30,7 +30,9 @@ title: 课程设计完整博客
 
 ### 主要功能截图
 1. 登录界面  
-   ![登录界面](images/login.png)
+  <div align="center">
+  <img src="images/login.png" alt="登录界面" width="400">
+</div>
 2. 注册界面
    ![注册界面](images/register.png)
 3. 修改密码界面
